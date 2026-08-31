@@ -59,4 +59,13 @@ Create:
 5. Tagline Options
 6. Homepage Story Flow
 
+Brand Colours
+Blue (Main Colour): #2355b2
+White: #ffffff
+Light Grey: #b1b4b3
+Dark Grey: #7a7a7a
+Orange: #f7932e
+Black: #000000
+Navy: #0d2547
+
 Output detailed recommendations.
